@@ -54,5 +54,5 @@ function buttonAnimation(currentKey) {
   keyPressed.classList.add("pressed");
   setTimeout(function() {
     keyPressed.classList.remove("pressed")
-  }, 100);
+  }, 110);
 }
